@@ -27,6 +27,7 @@
 ### 📫 Contato
 
 E-mail: joaogabrielfurtadodurval@gmail.com
+
 [![LinkedIn([https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/joao-gabriel-furtado-duval-6306162b3](https://www.linkedin.com/in/joão-gabriel-furtado-6306162b3/)](https://www.linkedin.com/in/joão-gabriel-furtado-6306162b3/))
 
 ---
