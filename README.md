@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu perfil
+# 👋 Welcome to my profile
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor FullStack em formação  
