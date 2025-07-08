@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o João Gabriel Furtado
+# 👋 Bem-vindo ao meu perfil
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvedor FullStack em formação  
