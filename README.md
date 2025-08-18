@@ -1,8 +1,7 @@
 # 👋 Welcome to my profile
 
 🎓 Análise e Desenvolvimento de Sistemas  
-💻 Back-End Developer 
-🌐 Buscando me desenvolver como profissional
+💻 Back-End Developer 🌐 Buscando me desenvolver como profissional
 
 ---
 
