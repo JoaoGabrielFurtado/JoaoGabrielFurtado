@@ -1,17 +1,17 @@
 # 👋 Welcome to my profile
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor FullStack em formação  
+🎓 Análise e Desenvolvimento de Sistemas  
+💻 Back-End Developer 
 🌐 Buscando me desenvolver como profissional
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
-- 💡 **Linguagens:** C# / Java / JavaScript  
-- 🛠️ **Frameworks:** .NET / Angular / Electron.js / Node.js
+- 💡 **Linguagens:** C# / Java / TypeScript 
+- 🛠️ **Frameworks:** .NET / Angular / Electron.js 
 - 💾 **Banco de Dados:** SQL Server / MongoDB  
-- 📦 **Ferramentas:** Git / GitHub / VSCode / Postman
+- 📦 **Ferramentas:** Git / GitHub / Postman
 
 ---
 
