@@ -19,7 +19,6 @@
 - [GymAppCode](https://github.com/JoaoGabrielFurtado/GymAppCode) – Sistema em JS para registro de treinos
 - [PROJETO1B1](https://github.com/JoaoGabrielFurtado/PROJETO1B1) – Gerenciador de Tarefas com arquitetura MVC (C#)
 - [fakestore](https://github.com/JoaoGabrielFurtado/fakestore) – Integração com Fake Store API
-- [csharpTasks](https://github.com/JoaoGabrielFurtado/csharpTasks) – Exercícios e práticas com C#
 
 ---
 
