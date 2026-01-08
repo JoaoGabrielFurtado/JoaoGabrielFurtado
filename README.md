@@ -40,9 +40,10 @@ Aqui concentro meus exercícios de lógica, algoritmos e desafios técnicos:
 ### 🎓 Projetos Acadêmicos
 
 Projetos desenvolvidos durante a graduação focados em persistência de dados e arquitetura:
-- 📖 [**BooksW-JavaPsSQL**](https://github.com/JoaoGabrielFurtado/BooksW-JavaPsSQL_ALAFDAL) – Integração Java com PostgreSQL.
-- 🔥 [**BooksWithFirebase**](https://github.com/JoaoGabrielFurtado/BooksWithFirebase) – Aplicação utilizando banco NoSQL em tempo real.
-- ✅ [**Gerenciador de Tarefas (MVC)**](https://github.com/JoaoGabrielFurtado/PROJETO1BI) – Arquitetura MVC clássica.
+- 📖 (JAVA) [**BooksW-JavaPsSQL**](https://github.com/JoaoGabrielFurtado/BooksW-JavaPsSQL_ALAFDAL) – Integração Java com PostgreSQL.
+- 🔥 (JAVA) [**BooksWithFirebase**](https://github.com/JoaoGabrielFurtado/BooksWithFirebase) – Aplicação utilizando banco NoSQL em tempo real.
+- 🔥 (JAVA) [**BooksWithFirebase**](https://github.com/JoaoGabrielFurtado/BooksW-JavaPsSQL_ALAFDAL) – Aplicação utilizando conceitos de ALDAL e AFDAL.
+- ✅ (C#) [**Gerenciador de Tarefas (MVC)**](https://github.com/JoaoGabrielFurtado/PROJETO1BI) – Arquitetura MVC clássica.
 
 ---
 
